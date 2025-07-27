@@ -1,4 +1,4 @@
-# 🌱 Organic Farming – Social Internship Report
+# 🌱 Organic Farming 
 
 A holistic report on sustainable agriculture focusing on organic farming methods. This project was completed as part of the Social Internship under the guidance of Dr. Krishnachalitha K.C. at Alliance University.
 
